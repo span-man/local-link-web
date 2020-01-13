@@ -41,7 +41,7 @@ export default {
     confirm() {
       console.log("提交");
       this.$axios.post(doMain + "addLink").then(res => {
-        console.log("提交结果-->", res);
+        console.log("提交结果---->", res);
       });
     }
   }
