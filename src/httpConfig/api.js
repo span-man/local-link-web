@@ -1,3 +1,3 @@
-const apiUrl = 'http://localhost:7777/';
+// const apiUrl = 'http://localhost:7778/';
 
-export default apiUrl;
+// export default apiUrl;
